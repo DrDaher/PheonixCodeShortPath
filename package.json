@@ -1,0 +1,14 @@
+{
+  "name": "phoenix-path-shortener",
+  "version": "1.0.0",
+  "description": "An extension for Phoenix Code to shorten long file paths for better readability.",
+  "main": "ShortenFilePath.js",
+  "scripts": {
+    "start": "phoenix start"
+  },
+  "dependencies": {
+    "phoenix": "^1.0.0"
+  },
+  "author": "DrDaher,
+  "license": "MIT"
+}
